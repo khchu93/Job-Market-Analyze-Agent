@@ -10,6 +10,7 @@ dependencies = [
     "langchain>=1.2.10",
     "langchain-google-genai>=4.2.1",
     "langchain-google-vertexai>=3.2.2",
+    "langchain-mcp-adapters>=0.2.1",
     "langchain-openai>=1.1.10",
     "langgraph>=1.0.10",
     "langsmith>=0.7.12",
